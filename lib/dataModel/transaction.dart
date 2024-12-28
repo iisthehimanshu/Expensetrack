@@ -22,7 +22,7 @@ class Transaction {
       'name': name,
       'amount': amount,
       'description': description,
-      'deducted': deducted ? 1 : 0, // Store booleans as 1 (true) or 0 (false)
+      'deducted': deducted ? 1 : 0,  // Store booleans as 1 (true) or 0 (false)
     };
   }
 
