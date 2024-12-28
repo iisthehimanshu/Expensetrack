@@ -1,16 +1,28 @@
-# expensetracker
+# ExpenseTracker
 
-A new Flutter project.
+This is a Flutter application for managing and tracking your expenses. It allows users to add, view, and manage their transactions with features like reminders and notifications.
 
-## Getting Started
+## Features
+- Add and view transactions
+- Schedule daily reminders
+- Manage transaction details such as name, amount, and description
+- Support for multiple platforms
 
-This project is a starting point for a Flutter application.
+## Prerequisites
 
-A few resources to get you started if this is your first Flutter project:
+Before you begin, ensure that you have met the following requirements:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Flutter**: Version 3.0 or later (Make sure you have Flutter installed. If not, follow the instructions on the official website [flutter.dev](https://flutter.dev/docs/get-started/install)).
+- **Dart**: Version 2.17 or later (Dart comes bundled with Flutter).
+- **Android Studio** or **Visual Studio Code** (for development).
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Installation
+
+Follow these steps to set up and run the app on your local machine.
+
+### 1. Clone the repository
+
+Start by cloning the repository to your local machine:
+
+```bash
+git clone https://github.com/iisthehimanshu/Expensetrack.git
